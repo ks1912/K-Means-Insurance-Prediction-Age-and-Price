@@ -23,3 +23,6 @@
    
    Red Symbolize Profitable customer where as Blue symbolize not so profitable customers.
    
+--------------------------------------------------------------------------
+
+A Data analysis project

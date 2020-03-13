@@ -1,6 +1,7 @@
 # K-Means-Insurance-Prediction-Age-and-Price
 ---------------------------------------------------------
-IDE used --> Spyder (3.3.6)
+
+1.IDE used --> Spyder (3.3.6)
 
 2. Python Version --> Python 3.7
 
@@ -10,3 +11,15 @@ IDE used --> Spyder (3.3.6)
 
 # OUTPUT
 -----------------------------------------------------------------------
+1. Finding the Elbow
+   Got the output as 2
+   
+2. Using KMeans Clusturing to analyse the data.
+   With the help of 2 clusture marked as 
+   
+   2.1. RED
+   
+   2.2. Blue
+   
+   Red Symbolize Profitable customer where as Blue symbolize not so profitable customers.
+   
